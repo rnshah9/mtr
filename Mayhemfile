@@ -1,0 +1,5 @@
+project: rnshah9/mtr
+target: mtr-packet
+
+cmds:
+  - cmd: /repo/mtr-packet
