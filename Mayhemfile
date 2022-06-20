@@ -1,4 +1,4 @@
-project: rnshah9/mtr
+project: mtr
 target: mtr-packet
 
 cmds:
