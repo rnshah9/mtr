@@ -2,4 +2,4 @@ project: mtr
 target: mtr-packet
 
 cmds:
-  - cmd: /repo/mtr-packet
+  - cmd: /install/sbin/mtr-packet
